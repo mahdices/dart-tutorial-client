@@ -1,0 +1,13 @@
+name: SocialMedia
+description: Its a simple social media
+version: 1.0.0
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  chalkdart: ^2.0.9
+  http: ^0.13.5
+  web_socket_channel: ^2.3.0
+
+dev_dependencies: null
